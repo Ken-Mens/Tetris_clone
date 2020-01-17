@@ -10,3 +10,5 @@ A simple Javascript clone of the classic Tetris game developed by Alexey Pajitno
 
 To play the game clone this repo and run npm run start when entering the directory. That way you'll be ready to play the game on your localhost.
 
+Here is a link to the current state of the  Tetris [Game](https://tetris-525.herokuapp.com/).
+
